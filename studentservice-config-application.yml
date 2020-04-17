@@ -8,7 +8,7 @@ server:
 spring:
   profiles: dev # 开发环境
   application:
-    name: microservice-config-dev11
+    name: microservice-config-dev
 name: 11
 ---
 server:
